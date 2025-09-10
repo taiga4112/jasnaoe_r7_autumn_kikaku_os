@@ -53,7 +53,7 @@ Paper Title(English): A Consideration on the Role and Necessary Functions of Aca
 2点目は人的ネットワークの形成である。
 学生の立場から見ると、海事産業に関わる多様な分野の技術者・研究者と接点を持つ機会は限られている。
 また、研究者の立場から見ても、他分野の専門家と交流する場は十分とはいえない。
-就職を考える学生にとって理想的なネットワークとは、学会のようなオープンな場で多様な研究発表に触れ、それを通じて企業や研究組織の魅力を理解し、進路を選択できることである。
+就職を考える学生にとって理想的なネットワークとは、学会のようなオープンな場で多様な研究発表に触れ、企業や研究組織の魅力を理解し、進路を選択できることである。
 すでに他産業では同様の取り組みが進んでいる。
 さらに、研究者にとっても学会活動を通じて他分野の専門家と交流し、コラボレーションの機会を得ることは重要である。
 特に海事産業は多様な分野と多岐にわたるステークホルダーが関与する複雑な産業であり、広い視野での交流が求められる。
@@ -63,7 +63,7 @@ Paper Title(English): A Consideration on the Role and Necessary Functions of Aca
 
 #figure(
   placement: auto, // top, bottom, auto, none
-  image("figs/overview.svg", width: 105%),
+  image("figs/overview.svg", width: 100%),
   caption: [Schematic diagram of ideal maritime industry research ecosystem.],
 ) <fig:overview>
 
